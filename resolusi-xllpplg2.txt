@@ -1,0 +1,8 @@
+Ini adalah resulusi xllpplg2 untuk semester genap 2025
+
+-Rigistrasi API themoviedb.org
+-Registrasi github.com
+-Registrasi gitlap.com
+-Praktik github
+  * membuat repositori
+  * membuat file resolusi-xllpplg2.txt
